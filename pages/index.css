@@ -55,15 +55,12 @@
   font-weight: bold;
 }
 
-.header__content {
+.header__title {
   display: flex;
   flex-direction: column;
   align-items: flex-start;
   margin-left: 80px;
   margin-top: 183px;
-}
-
-.header__title {
   max-width: 709px;
   margin-bottom: 28px;
 }
@@ -95,6 +92,7 @@
   font-weight: normal;
   font-size: 20px;
   line-height: 30px;
+  margin-left: 80px;
 }
 
 .header__image {
